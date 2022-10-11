@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gregmahhn
+- 👋 Hi, I’m gregmahhn
 - 👀 I’m interested in ...getting defender out of the 1980's
 - 🌱 I’m currently learning ... how to put up with MS incopetance 
 - 💞️ I’m looking to collaborate on ... moving intune from command line to GUI
